@@ -1,5 +1,3 @@
-Absolutely ✅ — here’s a **clean, complete set of commands** and notes you can copy–paste for setting up Hyprland on **Ubuntu 25.10 (Questing Quokka)**, with correct cloning, configuration, installation, and remote reload instructions.
-
 ---
 
 ## 🧰 **Full Hyprland Setup for Ubuntu 25.10**
