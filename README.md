@@ -124,5 +124,3 @@ HYPRLAND_INSTANCE_SIGNATURE=$(ls /run/user/$(id -u)/hypr/ | head -n 1) hyprctl r
 ```
 
 ---
-
-Would you like me to extend this setup with a **floating window + deep shadow block** already included in `hyprland.conf`, so you can just paste it in one go?
