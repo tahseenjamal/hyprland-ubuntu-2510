@@ -1,5 +1,3 @@
----
-
 ## 🧰 **Full Hyprland Setup for Ubuntu 25.10**
 
 ### 1️⃣ Clone the official 25.10 setup repo
